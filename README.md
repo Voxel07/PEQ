@@ -1,8 +1,10 @@
-#GPS
-- Uart
+# GPS
+-
+Uart
 
-#Display
+# Display
 -
 
-#NRF
-- BLE
+# NRF
+-
+BLE

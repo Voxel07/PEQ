@@ -1,0 +1,4 @@
+build/*
+.vscode/
+libs/Arduino_LoRa
+libs/Libs_Samtech
